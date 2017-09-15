@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Fidato's Blog
 
 You can use the [editor on GitHub](https://github.com/fidato13/fidato13.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
